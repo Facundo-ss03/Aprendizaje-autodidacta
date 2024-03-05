@@ -1,0 +1,2 @@
+
+En esta practica aprendí lo básico sobre los labels y los link-labels.
