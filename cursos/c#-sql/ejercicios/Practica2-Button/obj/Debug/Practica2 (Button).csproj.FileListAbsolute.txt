@@ -1,0 +1,20 @@
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\bin\Debug\Practica2 (Button).exe.config
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\bin\Debug\Practica2 (Button).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\bin\Debug\Practica2 (Button).pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2 (Button).csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2__Button_.Form1.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2__Button_.Properties.Resources.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2 (Button).csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2 (Button).csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2 (Button).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2 (Button)\obj\Debug\Practica2 (Button).pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\bin\Debug\Practica2 (Button).exe.config
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\bin\Debug\Practica2 (Button).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\bin\Debug\Practica2 (Button).pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2 (Button).csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2__Button_.Form1.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2__Button_.Properties.Resources.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2 (Button).csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2 (Button).csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2 (Button).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica2-Button\obj\Debug\Practica2 (Button).pdb
