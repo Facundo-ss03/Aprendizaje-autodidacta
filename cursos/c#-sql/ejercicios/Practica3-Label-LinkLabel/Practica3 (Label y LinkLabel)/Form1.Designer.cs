@@ -29,25 +29,29 @@ namespace Practica3__Label_y_LinkLabel_
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblSaludo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // label1
+            // lblSaludo
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(105, 122);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(109, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Hola soy un label";
+            this.lblSaludo.AutoSize = true;
+            this.lblSaludo.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblSaludo.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSaludo.ForeColor = System.Drawing.Color.Navy;
+            this.lblSaludo.Location = new System.Drawing.Point(105, 122);
+            this.lblSaludo.Name = "lblSaludo";
+            this.lblSaludo.Size = new System.Drawing.Size(128, 17);
+            this.lblSaludo.TabIndex = 0;
+            this.lblSaludo.Text = "Hola soy un label";
+            this.lblSaludo.MouseLeave += new System.EventHandler(this.lblSaludo_MouseLeave);
+            this.lblSaludo.MouseMove += new System.Windows.Forms.MouseEventHandler(this.lblSaludo_MouseMove);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 450);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblSaludo);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -57,7 +61,7 @@ namespace Practica3__Label_y_LinkLabel_
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblSaludo;
     }
 }
 
