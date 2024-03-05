@@ -1,0 +1,10 @@
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\bin\Debug\MiPrimerAplicación.exe.config
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\bin\Debug\MiPrimerAplicación.exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\bin\Debug\MiPrimerAplicación.pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\Practica1 (Form).csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\MiPrimerAplicación.Form1.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\MiPrimerAplicación.Properties.Resources.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\Practica1 (Form).csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\Practica1 (Form).csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\MiPrimerAplicación.exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica1-Form\obj\Debug\MiPrimerAplicación.pdb
