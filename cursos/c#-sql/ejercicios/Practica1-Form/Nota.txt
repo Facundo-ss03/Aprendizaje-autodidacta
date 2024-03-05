@@ -1,0 +1,5 @@
+
+En esta primer aplicación analicé los archivos que se crean a partir de la creación de un app 
+del tipo Windows Forms. También comencé a explorar las herramientas básicas y sus comportamientos.
+
+En el siguiente módulo voy a estar probando los botones.
