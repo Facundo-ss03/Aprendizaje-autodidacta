@@ -8,3 +8,13 @@ C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practi
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label-LinkLabel\Practica3 (Label y LinkLabel)\obj\Debug\Practica3 (Label y LinkLabel).csproj.CoreCompileInputs.cache
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label-LinkLabel\Practica3 (Label y LinkLabel)\obj\Debug\Practica3 (Label y LinkLabel).exe
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label-LinkLabel\Practica3 (Label y LinkLabel)\obj\Debug\Practica3 (Label y LinkLabel).pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\bin\Debug\Practica3 (Label y LinkLabel).exe.config
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\bin\Debug\Practica3 (Label y LinkLabel).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\bin\Debug\Practica3 (Label y LinkLabel).pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3 (Label y LinkLabel).csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3__Label_y_LinkLabel_.Form1.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3__Label_y_LinkLabel_.Properties.Resources.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3 (Label y LinkLabel).csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3 (Label y LinkLabel).csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3 (Label y LinkLabel).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Label y LinkLabel\obj\Debug\Practica3 (Label y LinkLabel).pdb
