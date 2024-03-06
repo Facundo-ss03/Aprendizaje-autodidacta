@@ -1,0 +1,9 @@
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\bin\Debug\Practica 3 (Control Textbox).exe.config
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\bin\Debug\Practica 3 (Control Textbox).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\bin\Debug\Practica 3 (Control Textbox).pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\obj\Debug\Practica_3__Control_Textbox_.Form1.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\obj\Debug\Practica_3__Control_Textbox_.Properties.Resources.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\obj\Debug\Practica 3 (Control Textbox).csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\obj\Debug\Practica 3 (Control Textbox).csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\obj\Debug\Practica 3 (Control Textbox).exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\Practica3-Textbox\Practica 3 (Control Textbox)\obj\Debug\Practica 3 (Control Textbox).pdb
