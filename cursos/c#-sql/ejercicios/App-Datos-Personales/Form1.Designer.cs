@@ -1,7 +1,7 @@
 ﻿
 namespace App_Datos_Personales
 {
-    partial class Form1
+    partial class DatosPersonales
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -39,11 +39,14 @@ namespace App_Datos_Personales
             this.label4 = new System.Windows.Forms.Label();
             this.txtbResultado = new System.Windows.Forms.TextBox();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.btnAceptar = new System.Windows.Forms.Button();
+            this.btnCancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtbApellido
             // 
             this.txtbApellido.Location = new System.Drawing.Point(119, 44);
+            this.txtbApellido.MaxLength = 30;
             this.txtbApellido.Name = "txtbApellido";
             this.txtbApellido.Size = new System.Drawing.Size(252, 20);
             this.txtbApellido.TabIndex = 0;
@@ -51,6 +54,7 @@ namespace App_Datos_Personales
             // txtbNombre
             // 
             this.txtbNombre.Location = new System.Drawing.Point(119, 94);
+            this.txtbNombre.MaxLength = 30;
             this.txtbNombre.Name = "txtbNombre";
             this.txtbNombre.Size = new System.Drawing.Size(252, 20);
             this.txtbNombre.TabIndex = 1;
@@ -58,13 +62,16 @@ namespace App_Datos_Personales
             // txtbEdad
             // 
             this.txtbEdad.Location = new System.Drawing.Point(119, 143);
+            this.txtbEdad.MaxLength = 3;
             this.txtbEdad.Name = "txtbEdad";
             this.txtbEdad.Size = new System.Drawing.Size(53, 20);
             this.txtbEdad.TabIndex = 2;
+            this.txtbEdad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtbEdad_KeyPress);
             // 
             // txtbDireccion
             // 
             this.txtbDireccion.Location = new System.Drawing.Point(119, 192);
+            this.txtbDireccion.MaxLength = 120;
             this.txtbDireccion.Name = "txtbDireccion";
             this.txtbDireccion.Size = new System.Drawing.Size(252, 20);
             this.txtbDireccion.TabIndex = 3;
@@ -111,10 +118,11 @@ namespace App_Datos_Personales
             // 
             // txtbResultado
             // 
-            this.txtbResultado.Location = new System.Drawing.Point(26, 274);
+            this.txtbResultado.Location = new System.Drawing.Point(26, 265);
             this.txtbResultado.Multiline = true;
             this.txtbResultado.Name = "txtbResultado";
-            this.txtbResultado.Size = new System.Drawing.Size(345, 164);
+            this.txtbResultado.ReadOnly = true;
+            this.txtbResultado.Size = new System.Drawing.Size(345, 115);
             this.txtbResultado.TabIndex = 8;
             // 
             // lblResultado
@@ -127,12 +135,41 @@ namespace App_Datos_Personales
             this.lblResultado.TabIndex = 9;
             this.lblResultado.Text = "Resultado:";
             // 
-            // Form1
+            // btnAceptar
+            // 
+            this.btnAceptar.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btnAceptar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnAceptar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
+            this.btnAceptar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
+            this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnAceptar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.btnAceptar.Location = new System.Drawing.Point(97, 405);
+            this.btnAceptar.Name = "btnAceptar";
+            this.btnAceptar.Size = new System.Drawing.Size(75, 23);
+            this.btnAceptar.TabIndex = 10;
+            this.btnAceptar.Text = "Aceptar";
+            this.btnAceptar.UseVisualStyleBackColor = false;
+            // 
+            // btnCancelar
+            // 
+            this.btnCancelar.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnCancelar.Location = new System.Drawing.Point(219, 405);
+            this.btnCancelar.Name = "btnCancelar";
+            this.btnCancelar.Size = new System.Drawing.Size(75, 23);
+            this.btnCancelar.TabIndex = 11;
+            this.btnCancelar.Text = "Cancelar";
+            this.btnCancelar.UseVisualStyleBackColor = false;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
+            // 
+            // DatosPersonales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightBlue;
             this.ClientSize = new System.Drawing.Size(393, 450);
+            this.Controls.Add(this.btnCancelar);
+            this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.txtbResultado);
             this.Controls.Add(this.label4);
@@ -143,8 +180,8 @@ namespace App_Datos_Personales
             this.Controls.Add(this.txtbEdad);
             this.Controls.Add(this.txtbNombre);
             this.Controls.Add(this.txtbApellido);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "DatosPersonales";
+            this.Text = "Datos personales";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -162,6 +199,8 @@ namespace App_Datos_Personales
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtbResultado;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Button btnAceptar;
+        private System.Windows.Forms.Button btnCancelar;
     }
 }
 

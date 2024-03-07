@@ -2,9 +2,9 @@ C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Da
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\bin\Debug\App-Datos-Personales.exe
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\bin\Debug\App-Datos-Personales.pdb
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App-Datos-Personales.csproj.AssemblyReference.cache
-C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App_Datos_Personales.Form1.resources
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App_Datos_Personales.Properties.Resources.resources
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App-Datos-Personales.csproj.GenerateResource.cache
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App-Datos-Personales.csproj.CoreCompileInputs.cache
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App-Datos-Personales.exe
 C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App-Datos-Personales.pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Datos-Personales\obj\Debug\App_Datos_Personales.DatosPersonales.resources
