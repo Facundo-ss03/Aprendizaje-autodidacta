@@ -17,9 +17,17 @@ namespace App_Datos_Personales
             InitializeComponent();
         }
 
+        private string apellidoPersona;
+        private string nombrePersona;
+        private string edadPersona;
+        private string direccionPersona;
+
         private void txtbEdad_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 13 && e.KeyChar != 8) e.Handled = true;
+            if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 13 && e.KeyChar != 8)
+            {
+                e.Handled = true;
+            }
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
@@ -27,5 +35,30 @@ namespace App_Datos_Personales
             Application.Exit();
         }
 
+        private Persona DatosPersona()
+        {
+            apellidoPersona = txtbApellido.Text;
+            nombrePersona = txtbNombre.Text;
+            edadPersona = txtbEdad.Text;
+            direccionPersona = txtbDireccion.Text;
+
+            Persona persona = new Persona(apellidoPersona, nombrePersona, edadPersona, direccionPersona);
+
+            return persona;
+        }
+        
+        private void MostrarResultado()
+        {
+            Persona p = DatosPersona();
+
+            txtbResultado.Text += "Nombre y apellido: \n" + p.Apellido + " " + p.Nombre + " ";
+            txtbResultado.Text += "Edad: " + p.Edad + " ";
+            txtbResultado.Text += "Dirección: " + p.Direccion;
+        }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            MostrarResultado();
+        }
     }
 }

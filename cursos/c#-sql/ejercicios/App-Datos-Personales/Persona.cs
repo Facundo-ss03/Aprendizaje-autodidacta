@@ -8,45 +8,18 @@ namespace App_Datos_Personales
 {
     class Persona
     {
-        private string Apellido;
-        private string Nombre;
-        private int Edad;
-        private string Direccion;
-
-        public void setApellido(string apellido)
+        public Persona(string apellido, string nombre, string edad, string direccion)
         {
             Apellido = apellido;
+            Nombre = nombre;
+            Edad = edad;
+            Direccion = direccion;
         }
-        public string getApellido()
-        {
-            return Apellido;
-        }
-        public void setNombre(string nombre)
-        {
-            Apellido = nombre;
-        }
+        public string Apellido { get; set; }
+        public string Nombre { get; set; }
+        public string Edad { get; set; }
+        public string Direccion { get; set; }
 
-        public string getNombre()
-        {
-            return Nombre;
-        }
-        public void setEdad(string edad)
-        {
-            Apellido = edad;
-        }
 
-        public int getEdad()
-        {
-            return Edad;
-        }
-        public void setDireccion(string direccion)
-        {
-            Apellido = direccion;
-        }
-
-        public string getDireccion()
-        {
-            return Direccion;
-        }
     }
 }
