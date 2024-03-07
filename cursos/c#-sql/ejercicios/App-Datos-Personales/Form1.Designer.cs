@@ -37,10 +37,10 @@ namespace App_Datos_Personales
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtbResultado = new System.Windows.Forms.TextBox();
             this.lblResultado = new System.Windows.Forms.Label();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
+            this.lvResultado = new System.Windows.Forms.ListView();
             this.SuspendLayout();
             // 
             // txtbApellido
@@ -116,15 +116,6 @@ namespace App_Datos_Personales
             this.label4.TabIndex = 7;
             this.label4.Text = "Dirección:";
             // 
-            // txtbResultado
-            // 
-            this.txtbResultado.Location = new System.Drawing.Point(26, 265);
-            this.txtbResultado.Multiline = true;
-            this.txtbResultado.Name = "txtbResultado";
-            this.txtbResultado.ReadOnly = true;
-            this.txtbResultado.Size = new System.Drawing.Size(345, 115);
-            this.txtbResultado.TabIndex = 8;
-            // 
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
@@ -163,16 +154,26 @@ namespace App_Datos_Personales
             this.btnCancelar.UseVisualStyleBackColor = false;
             this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
+            // lvResultado
+            // 
+            this.lvResultado.HideSelection = false;
+            this.lvResultado.Location = new System.Drawing.Point(26, 265);
+            this.lvResultado.Name = "lvResultado";
+            this.lvResultado.Size = new System.Drawing.Size(345, 134);
+            this.lvResultado.TabIndex = 12;
+            this.lvResultado.UseCompatibleStateImageBehavior = false;
+            this.lvResultado.View = System.Windows.Forms.View.List;
+            // 
             // DatosPersonales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightBlue;
             this.ClientSize = new System.Drawing.Size(393, 450);
+            this.Controls.Add(this.lvResultado);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.lblResultado);
-            this.Controls.Add(this.txtbResultado);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -198,10 +199,10 @@ namespace App_Datos_Personales
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox txtbResultado;
         private System.Windows.Forms.Label lblResultado;
         private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.Button btnCancelar;
+        private System.Windows.Forms.ListView lvResultado;
     }
 }
 

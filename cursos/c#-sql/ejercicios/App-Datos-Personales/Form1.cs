@@ -16,12 +16,6 @@ namespace App_Datos_Personales
         {
             InitializeComponent();
         }
-
-        private string apellidoPersona;
-        private string nombrePersona;
-        private string edadPersona;
-        private string direccionPersona;
-
         private void txtbEdad_KeyPress(object sender, KeyPressEventArgs e)
         {
             if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 13 && e.KeyChar != 8)
@@ -34,31 +28,15 @@ namespace App_Datos_Personales
         {
             Application.Exit();
         }
-
-        private Persona DatosPersona()
-        {
-            apellidoPersona = txtbApellido.Text;
-            nombrePersona = txtbNombre.Text;
-            edadPersona = txtbEdad.Text;
-            direccionPersona = txtbDireccion.Text;
-
-            Persona persona = new Persona(apellidoPersona, nombrePersona, edadPersona, direccionPersona);
-
-            return persona;
-        }
-        
-        private void MostrarResultado()
-        {
-            Persona p = DatosPersona();
-
-            txtbResultado.Text += "Nombre y apellido: \n" + p.Apellido + " " + p.Nombre + " ";
-            txtbResultado.Text += "Edad: " + p.Edad + " ";
-            txtbResultado.Text += "Dirección: " + p.Direccion;
-        }
-
+                
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            MostrarResultado();
+            string apellido = "Nombre: " + txtbApellido.Text + " " + txtbNombre.Text;
+            string edad = "Edad: " + txtbEdad.Text;
+            string direccion = "Dirección: " + txtbDireccion.Text;
+            lvResultado.Items.Add(apellido);
+            lvResultado.Items.Add(edad);
+            lvResultado.Items.Add(direccion);
         }
     }
 }
