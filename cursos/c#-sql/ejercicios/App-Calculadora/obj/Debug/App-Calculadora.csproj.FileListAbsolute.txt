@@ -1,0 +1,10 @@
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\bin\Debug\App-Calculadora.exe.config
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\bin\Debug\App-Calculadora.exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\bin\Debug\App-Calculadora.pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App-Calculadora.csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App_Calculadora.Properties.Resources.resources
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App-Calculadora.csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App-Calculadora.exe
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App-Calculadora.pdb
+C:\Users\Facundo\Desktop\aprendizaje-autodidacta\cursos\c#-sql\ejercicios\App-Calculadora\obj\Debug\App_Calculadora.Calculadora.resources
